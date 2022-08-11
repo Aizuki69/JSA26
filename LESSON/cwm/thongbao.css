@@ -1,0 +1,40 @@
+body{
+    background-image: url(data/img/blue.jpg);
+}
+.diva{
+    position: relative;
+    left: 250px ;
+    top: 0px;
+}
+.diva img{
+    width: 800px;
+
+}
+.diva p{
+    position: absolute;
+    top: 300px;
+    left: 167px;
+    font-family: 'Anek Latin', sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+}
+.diva a{
+    background-color: #2666CF;
+    font-size: 20px;
+    color: #F5F2E7;
+    padding: 15px 35px ;
+    font-family: 'Anek Latin', sans-serif;
+    text-decoration: none;
+    border: none;
+    font-weight: 600;
+    position: absolute;
+    top: 590px;
+    left: 320px;
+}
+.diva a:hover{
+    color: gray;
+}
+.diva img{
+    position: absolute;
+}

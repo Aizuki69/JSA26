@@ -147,7 +147,7 @@ background-color: #2666CF;
     color: #000000;
 }
 .img1p2h1 ,.img2p2h1 ,.img3p2h1 ,.img1p2h2 ,.img2p2h2 ,.img3p2h2{
-    height: 255px;
+    height: 250px;
     /* margin: 20px; */
     border-radius: 7px;
     
@@ -173,7 +173,6 @@ background-color: #2666CF;
     font-size: 20px;
     margin-left: 21px;
 }
-
 .yt1{
     position: relative;
 }
@@ -361,6 +360,7 @@ background-color: #2666CF;
 }
 .txp5{
     margin-right: 90px;
+    margin-top: 20px;
 }
 /* phần 6 */
 .p6 img{
@@ -388,11 +388,19 @@ background-color: #2666CF;
 }
 .txp6{
     position: absolute;
-    top: 150px;
-    left: 30px;
+    top: 190px;
+    left: 35px;
 }
 .p6{
     margin-top: 150px;
+}
+.p6 ion-icon{
+    color: #2666CF;
+    font-size: 40px;
+    font-weight: 600;
+    position: absolute;
+    top: 161px;
+    left: 370px;
 }
 /* phần 7 */
 .p7 img {
@@ -411,7 +419,7 @@ background-color: #2666CF;
 }
 .c4p7{
     border-left: #3b3b3b 1px solid;
-    padding-left: 50px;
+    padding-left: 70px;
     margin-left: 100px;
     padding-top: 10px;
 }
@@ -423,9 +431,9 @@ background-color: #2666CF;
 }
 .c4p7 a ,.c4p7 p{
     text-decoration: none;
-    color: #4b4b4b;
+    color: #747474;
     font-family: 'Anek Latin', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
 }
 .ap7{
     margin-left: 10px;
