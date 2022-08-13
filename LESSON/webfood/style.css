@@ -1,0 +1,253 @@
+/* p1 */
+body{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.p1{
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0,0,0, 0.7)),url(/LESSON/webfood/data/p1/hinhnen.jpg);
+    background-size: cover;
+    
+    
+}
+
+
+.h1 img{
+    height: 100px;
+}
+
+.hf{
+    display: flex;
+    padding: 15px 140px;
+}
+.text a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding-left: 15px;
+    color:white;
+}
+.text{
+    padding-top: 45px;
+    padding-left: 540px;
+}
+.h2{
+    padding-left: 140px;
+    padding-top: 100px;
+    padding-bottom:200px;
+}
+.h2 .b1{
+    font-family: sans-serif;
+    padding: 11px 25px;
+    color:white;
+    background-color: rgb(255, 136, 0);
+    border: none;
+    border-radius: 25px;
+}
+.h2 .b2{
+    margin-left: 5px;
+    font-family: sans-serif;
+    padding: 10px 25px;
+    color:rgb(255, 136, 0);
+    background: none;
+    border-radius: 25px;
+    border: 1px solid rgb(255, 136, 0);
+}
+.h2 h1{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding-left: 15px;
+    color:white;
+    font-weight: 10;
+}
+.nutbam{
+    padding-left: 14px;
+}
+.b1:hover{
+    font-family: sans-serif;
+    padding: 10px 24px;
+    color:rgb(255, 136, 0);
+    background: none;
+    border-radius: 25px;
+    border: 1px solid rgb(255, 136, 0);
+}
+.b2:hover{
+    font-family: sans-serif;
+    padding: 11px 25px;
+    color:white;
+    background-color: rgb(255, 136, 0);
+    border: none;
+    border-radius: 25px;
+}
+/* p2 */
+.p2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.p2h2{
+    display: flex;
+}
+.p2h1 h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(83,83,83);
+    text-transform: uppercase;
+}
+.p2h1{
+    margin-left: 380px;
+    margin-right: 380px;
+}
+.box{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 0px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid rgb(255, 136, 0);
+}
+.p2 h2 ,.p2 p{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(83, 83, 83);
+}
+.t1{
+    padding: 10px;
+}
+.p2h2{
+    margin: 30px 140px;
+}
+.icon{
+    font-size: 50px;
+    color: rgb(255, 136, 0);
+}
+/* p3 */
+.p3 img{
+    width: 355px;
+   
+    
+}
+.p3h1,.p3h2{
+    display: flex;
+}
+/* p4 */
+.p4{
+    background-color: whitesmoke;
+}
+.p4x{
+    padding: 50px 140px ;
+}
+.imgp41{
+    width: 300px;
+    margin-left: 200px;
+}
+.p4x h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+    text-align: center;
+    text-transform: uppercase;
+}
+.box1{
+    border-bottom: 2px rgb(255, 136, 0) solid;
+    margin-left: 510px ;
+    margin-right: 530px;
+    text-align: center;
+
+}
+.p4t{
+    margin-top: 60px;
+    display: flex;
+}
+.li1,.li2,.li3{
+    list-style: none;
+    display: flex;
+
+}
+.p4x ul{
+    margin-top: 200px;
+}
+.t{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    margin-top: 25px;
+}
+.l{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(255, 136, 0);
+    padding: 15px 20px;
+    border: 2px solid rgb(255, 136, 0);
+    border-radius: 100%;
+    margin-right: 20px;
+}
+.imgp42{
+    margin-left: 50px;
+}
+/* p5 */
+.p5{
+    margin: 60px 140px;
+    margin-bottom: 40px;
+}
+.imgp5{
+    width:250px;
+}
+.p5 h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+    margin-top: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.box2{
+    border-bottom: 2px rgb(255, 136, 0) solid;
+    margin-left: 510px ;
+    margin-right: 530px;
+    text-align: center;
+
+}
+.p5t{
+    margin-top: 60px;
+}
+.p5t1 h2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+.p5h{
+    display: flex;
+}
+.icon1{
+    font-size: 30px;
+    color: rgb(255, 136, 0);
+}
+.p5h p{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(83, 83, 83);
+    margin-top: 5px;
+}
+.p5h a{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(255, 136, 0);
+    margin-top: 5px;
+    
+}
+.p5c1{
+    display: flex;
+    margin-bottom: 100px;
+}
+.p5t{
+    margin-left: 15px;
+}
+
+
+/* p6 */
+/* p7 */
+/* p8 */
+/* p9 */
