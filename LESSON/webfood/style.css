@@ -186,7 +186,7 @@ body{
 /* p5 */
 .p5{
     margin: 60px 140px;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 }
 .imgp5{
     width:250px;
@@ -248,6 +248,123 @@ body{
 
 
 /* p6 */
+.p6{
+    text-align: center;
+    margin-top: 150px;
+}
+.box3{
+    border-bottom: 2px solid rgb(255, 136, 0);
+    margin-left: 670px;
+    margin-right: 670px;
+    margin-bottom: 100px;
+}
+.p6h img{
+    width: 50px;
+    border-radius: 100%;
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.p6 h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+.p7{
+    margin-top: 10px;
+    background-color: rgb(240, 240, 240);
+    padding-bottom: 50px;
+}
 /* p7 */
+.p7h{
+    display: flex;
+    margin: 50px 140px;
+    
+}
+.price1{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(255, 140, 9, 0.5);
+    margin-left: 50px;
+}
+.p7t h1{
+    padding-top: 60px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+.p7t{
+    text-align: center;
+}
+.box4{
+    border-bottom: 2px solid rgb(255, 136, 0);
+    margin: 0px 660px;
+}
+.price1 h2{
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+    margin-top: 10px;
+    text-transform: uppercase
+}
+.price1 .p7b{
+    margin: 10px 70px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(255, 136, 0);
+}
+.price1 .p7bb{
+    margin: 10px 80px;
+    padding: 10px 20px;
+    border: 1px solid rgb(255, 136, 0);
+    border-radius: 20px;
+    font-size: 18px;
+    color: rgb(255, 136, 0);
+    background: none;
+}
+.price1 .p7p1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(255, 136, 0);
+    margin-top: 10px;
+    text-transform: uppercase;
+    margin: 0px 20px;
+}
+.p7p1p{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(255, 136, 0);
+    margin-top: 5px;
+}
+.p7p2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    margin-top: 5px;
+    margin: 0px 20px;
+}
+.p7p1h{
+    display: flex;
+}
+.price1 li{
+    margin: 0px 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    margin-top: 10px;
+}
+.price1 ul{
+    margin-top: 25px;
+}
+
 /* p8 */
+
 /* p9 */
